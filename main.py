@@ -1,2 +1,2 @@
-print("Hello")
-print("")
+Nothing = "Vegetable"
+print(Nothing)
